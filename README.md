@@ -1,4 +1,4 @@
-#CodeNewbie RealPython Study Group HQ#  
+#CodeNewbie RealPython Study Group HQ#
 
 ###Group organization, rules, study plans, general discussion, and junk drawer.###
 ==
