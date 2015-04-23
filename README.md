@@ -1,4 +1,5 @@
-#CodeNewbie RealPython Study Group HQ#
+#CodeNewbie RealPython Study Group HQ#  
+
 Group organization, rules, study plans, general discussion, and junk drawer.
 ==
 
@@ -13,16 +14,22 @@ We'll push code to github repos for comments, suggestions, help, or a delightful
 ##Basic Study Plan##
 Meet Tuesdays 20:00-22:00 EDT
 
-<= 30 min:	demo of previous week's material/code snippets
-<= 10 min:	questions
-<= 5 min:	discussion of project of the day
-remaining:	work!
-<= 5 min:	review/feedback
+<= 30 min:	demo of previous week's material/code snippets  
+
+<= 10 min:	questions  
+
+<= 5 min:	discussion of project of the day  
+
+remaining:	work!  
+
+<= 5 min:	review/feedback  
+
 
 ##Rules (tl;dr don't be a jerk)##
 ###For the complete CodeNewbie code of conduct, head [here](http://www.codenewbie.org/blogs/our-code-of-conduct) 
 
-The simple version: <\n>
+The simple version:  
+
  	1.	Be nice
  	2.	Be honest
  	3.	Be supportive
