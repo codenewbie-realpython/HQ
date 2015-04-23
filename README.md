@@ -22,7 +22,7 @@ remaining:	work!
 ##Rules (tl;dr don't be a jerk)##
 ###For the complete CodeNewbie code of conduct, head [here](http://www.codenewbie.org/blogs/our-code-of-conduct) 
 
-The simple version:
+The simple version: /n
  	1.	Be nice
  	2.	Be honest
  	3.	Be supportive
