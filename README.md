@@ -15,7 +15,7 @@ Meet Tuesdays 20:00-22:00 EDT
 
 <= 30 min:	demo of previous week's material/code snippets
 <= 10 min:	questions
-<= 5 min:	discussion of project
+<= 5 min:	discussion of project of the day
 remaining:	work!
 <= 5 min:	review/feedback
 
@@ -29,4 +29,4 @@ The simple version:
 
 Phillip [@escapethegray1](http://www.twitter.com/escapethegray1)
 
-#####Disclaimer: This study group and its structure are totally a work in progress. If you have suggestions/questions/comments, please let me know and let's start a conversation and make changes#####
+#####Disclaimer: This study group and its structure are totally a work in progress. If you have suggestions/questions/comments, please let me know and let's start a conversation and make changes.#####
