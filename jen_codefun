@@ -1,0 +1,29 @@
+Hi all - this was some fun bit of code from the Python for Kids book I am working my way through. 
+
+Suppose you are digging in your backyard and uncover a bag of 20 gold coins. The next day you sneak down to the basement
+and stick the coins inside your grandfather's steam-powered replicating invention. A few hours later out shoots
+another 10 gleaming coins. How many coins would you have in your treasure chest if you did this every day
+for a year? 
+
+>>> 10 * 365
+3650
+>>> 20 + 3650
+3670
+
+Now what if a raven spots the shiny gold sitting in your bedroom and every week flies in and manages to steal three coins?
+How many coins would you have left at the end of the year? 
+
+>>> 20 + 10 * 365 - 3 * 52
+3514
+
+To see how your pile of gold coins will increase each week: (magic_coins represents the total number of magic coins per week: 10 magic coins per day, seven days in a week):
+
+found_coins = 20
+magic_coins = 70
+stolen_coins = 3
+coins = found_coins
+for week in range(1, 53):
+    coins = coins + magic_coins - stolen_coins
+    print('Week %s = %s' % (week, coins))
+
+
